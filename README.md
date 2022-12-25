@@ -10,7 +10,7 @@
    <a href="mailto:hwyewon@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    </a>
-   <a href="">
+   <a href="https://just-rutabaga-fd8.notion.site/Yeowon-Hwang-eb39e98d2e9d4ba4822bb6a1dfb0a38b">
    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
    </a>
 
