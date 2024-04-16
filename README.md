@@ -3,7 +3,7 @@
   # 👩🏻‍💻 About Me
   
   Hi, I'm undergraduate student majoring in Data Science at Sejong university.  
-  I'm interested in Natural Language Processing(NLP) and Recommender system(RecSys)  
+  I'm interested in Natural Language Processing(NLP).
 
   📫 if you want to contact me, click the button below!  
    <br>
